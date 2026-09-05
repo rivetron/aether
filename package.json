@@ -39,16 +39,16 @@
 	"packageManager": "npm@11.5.2",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Kosha-Nirman/aether.git"
+		"url": "git+https://github.com/rivetron/aether.git"
 	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
 	"type": "commonjs",
 	"bugs": {
-		"url": "https://github.com/Kosha-Nirman/aether/issues"
+		"url": "https://github.com/rivetron/aether/issues"
 	},
-	"homepage": "https://github.com/Kosha-Nirman/aether#readme",
+	"homepage": "https://github.com/rivetron/aether#readme",
 	"devDependencies": {
 		"@biomejs/biome": "^2.2.0",
 		"@commitlint/cli": "^19.8.1",

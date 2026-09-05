@@ -47,7 +47,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Kosha-Nirman/aether.git
+   git clone https://github.com/rivetron/aether.git
    cd aether
    ```
 
